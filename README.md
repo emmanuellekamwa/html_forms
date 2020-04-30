@@ -15,7 +15,7 @@ The goal of this project was to test our ability to use the input tag efficientl
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/emmanuellekamwa/html_forms/tree/feature-form)
+[Live Demo Link](https://emmanuellekamwa.github.io/html_forms/)
 
 ## Authors
 
