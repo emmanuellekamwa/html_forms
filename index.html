@@ -5,6 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         <title>HTML forms</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <section>
@@ -14,17 +19,17 @@
                     <a href="#">I forgot my User ID or Password</a></a>
                 </div>
                 <div>
-                    <button>Sign In</button>
+                    <button class="btn">Sign In</button>
                 </div>
             </div>
             
             <div id="form_body">
                 <div id="form_title">
-                    <h2>intuit</h2>
+                    <img class="logo" src="images/logo.svg" alt="intuit logl">
                     <ul type="none">
-                        <li>mint</li>
-                        <li>quickbooks</li>
-                        <li>turbotax</li>
+                        <li><img src="images/img1.svg" alt=""> mint</li>
+                        <li><img src="images/img3.svg" alt="">quickbooks</li>
+                        <li><img src="images/img2.svg" alt="">turbotax</li>
                     </ul>
                 </div>
                 <div id="main_form">
@@ -45,19 +50,20 @@
                         <input type="password" name="password" id="password">
                     </div>
                     <div class="form_field">
-                        <input type="submit" name="Create Account" id="submit">
+                        <input class="btn" type="submit" value="Create Account" id="submit">
                     </div>
-                    <p>By clicking Create account, you agree to our <a href="#">Terms</a>and have read and acknowledge our <a href="#">Privacy Statement</a></p>
-                    <div id="form_footer">
-                        <p>Invisible reCAPTCHA by Google <a href="#">Privacy Policy</a> and <a href="#">Terms of Use.</a></p>
-                    </div>
+                    <p class="terms">By clicking Create account, you agree to our <a href="#">Terms</a>and have read and acknowledge our <a href="#">Privacy Statement</a></p>
+                    
+                </div>
+                <div id="form_footer">
+                    <p>Invisible reCAPTCHA by Google <a href="#">Privacy Policy</a> and <a href="#">Terms of Use.</a></p>
                 </div>
             </div>
             <footer>
                 <p>
                     <a href="#">Legal</a>
                     <a href="#">Privacy</a>
-                    <a herf="#">Security</a>
+                    <a href="#">Security</a>
                 </p>
                 <p>© 2020 Intuit, Inc. All rights reserved. Intuit, QuickBooks, QB, TurboTax, ProConnect and Mint are registered trademarks of Intuit Inc.</p>
                 <p>Terms and conditions, features, support, pricing, and service options subject to change without notice.</p>
