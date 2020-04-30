@@ -6,16 +6,13 @@
     font-weight: 300;
     line-height: 1.3em;
 }
-
 body {
     background-color: rgb(223, 237, 240);
 }
-
 a {
     text-decoration: none;
     font-size: 0.8rem;
 }
-
 a:hover {
     font-weight: 400;
 }
