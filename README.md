@@ -1,6 +1,6 @@
 # HTML FORMS
 
-> Creating HTML forms
+> Creating HTML forms, a clone of mint.com’s signup page.
 
 ![screenshot](./images/inuit_img.png)
 
@@ -10,8 +10,8 @@ The goal of this project was to test our ability to use the input tag efficientl
 
 ## Built With
 
--   HTML
--   CSS
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -21,12 +21,12 @@ The goal of this project was to test our ability to use the input tag efficientl
 
 **Uduak Essien**
 
--   Github: [@acushlakoncept](https://github.com/acushlakoncept/)
--   Twitter: [@acushlakoncept](https://twitter.com/acushlakoncept)
--   Linkedin: [acushlakoncept](https://www.linkedin.com/in/acushlakoncept/)
+- Github: [@acushlakoncept](https://github.com/acushlakoncept/)
+- Twitter: [@acushlakoncept](https://twitter.com/acushlakoncept)
+- Linkedin: [acushlakoncept](https://www.linkedin.com/in/acushlakoncept/)
 
 👤 **Emmanuelle Kamwa**
 
--   Github: [@emmanuellekamwa](https://github.com/emmanuellekamwa)
--   Twitter: [@AlixKamwa](https://twitter.com/AlixKamwa)
--   Linkedin: [emmanuelle-kamwa-86145a1a4](https://www.linkedin.com/in/emmanuelle-kamwa-86145a1a4/)
+- Github: [@emmanuellekamwa](https://github.com/emmanuellekamwa)
+- Twitter: [@AlixKamwa](https://twitter.com/AlixKamwa)
+- Linkedin: [emmanuelle-kamwa-86145a1a4](https://www.linkedin.com/in/emmanuelle-kamwa-86145a1a4/)
