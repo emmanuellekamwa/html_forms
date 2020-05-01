@@ -2,7 +2,7 @@
 
 > Creating HTML forms, a clone of mint.com’s signup page.
 
-![screenshot](./images/inuit_img.png)
+![screenshot](./images/screenshot.jpg)
 
 This project is to demonstrate our understanding of HTML forms by building the inuit Sign up form.
 
