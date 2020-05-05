@@ -5,6 +5,8 @@
   font-family: "Lato", sans-serif;
   font-weight: 300;
   line-height: 1.3em;
+  color: #4c4c4c;
+  font-size: 0.85rem;
 }
 
 body {
@@ -15,6 +17,12 @@ a {
   text-decoration: none;
   font-size: 0.8rem;
   color: #0077c5;
+}
+
+h2 {
+  font-weight: 300;
+  margin-bottom: 10px;
+  font-size: 1.8rem;
 }
 
 #top {
@@ -41,21 +49,19 @@ a {
   text-align: center;
 }
 
-#form_title img.logo {
-  width: 200px;
+img.logo {
+  width: 180px;
   margin-bottom: -15px;
 }
+
 #form_title li {
   display: inline-flex;
+  margin-right: 5px;
 }
 
 #form_title li img {
   width: 20px;
   margin-right: 2px;
-}
-
-#form_title li {
-  margin-right: 5px;
 }
 
 #main_form {
@@ -64,13 +70,7 @@ a {
   background-color: #fff;
   padding: 30px;
   margin-top: 10px;
-  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.8);
   border: 1px solid #c7c7c7;
-}
-
-#main_form h2 {
-  font-weight: 400;
-  color: rgb(34, 33, 33);
 }
 
 .form_field {
@@ -82,6 +82,7 @@ a {
 
 .form_field label {
   display: block;
+  font-size: 1.15rem;
 }
 
 .form_field input {
@@ -94,12 +95,11 @@ a {
 
 .form_field small {
   font-weight: 100;
-  font-size: 0.8rem;
 }
 
 .form_field input#submit {
   height: 40px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .btn {
@@ -110,8 +110,7 @@ a {
   padding: 8px 15px;
 }
 
-#main_form .terms {
-  font-size: 0.8rem;
+.terms {
   font-style: italic;
   color: #757575;
 }
@@ -121,7 +120,6 @@ a {
   z-index: 100;
   margin-top: -5px;
   margin-bottom: 50px;
-  font-size: 0.8rem;
   background-color: #eceef1;
   height: 40px;
   border: 1px solid #c7c7c7;
@@ -129,15 +127,13 @@ a {
 }
 
 #form_footer p {
-  vertical-align: middle;
   padding-top: 10px;
   color: #8d9096;
 }
 
 footer {
   text-align: center;
-  font-size: 0.8rem;
-  margin-top: 20px;
+  margin: 20px 0;
 }
 
 footer p {
