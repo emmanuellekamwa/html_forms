@@ -25,7 +25,7 @@ h2 {
   font-size: 1.8rem;
 }
 
-#top {
+.top {
   height: 80px;
   display: flex;
   align-items: top;
@@ -33,17 +33,17 @@ h2 {
   top: 20px;
 }
 
-#top_content {
+.top_content {
   position: absolute;
   right: 120px;
 }
 
-#top button {
+.top button {
   position: absolute;
   right: 15px;
 }
 
-#form_body {
+.form_body {
   width: 400px;
   margin: 20px auto;
   text-align: center;
@@ -54,17 +54,17 @@ img.logo {
   margin-bottom: -15px;
 }
 
-#form_title li {
+.form_title li {
   display: inline-flex;
   margin-right: 5px;
 }
 
-#form_title li img {
+.form_title li img {
   width: 20px;
   margin-right: 2px;
 }
 
-#main_form {
+.main_form {
   z-index: 1;
   position: relative;
   background-color: #fff;
@@ -115,7 +115,7 @@ img.logo {
   color: #757575;
 }
 
-#form_footer {
+.form_footer {
   position: relative;
   z-index: 100;
   margin-top: -5px;
@@ -126,7 +126,7 @@ img.logo {
   border-top: none;
 }
 
-#form_footer p {
+.form_footer p {
   padding-top: 10px;
   color: #8d9096;
 }
